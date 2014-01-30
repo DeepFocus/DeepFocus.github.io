@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Tech @ Deep Focus</title>
+<subtitle type="text">A beautiful theme.</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://deepfocus.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://deepfocus.github.io" />
+<updated>2014-01-30T18:12:39-05:00</updated>
+<id>http://deepfocus.github.io/</id>
+<author>
+  <name></name>
+  <uri>http://deepfocus.github.io/</uri>
+  <email></email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Welcome to Tech @ Deep Focus]]></title>
+  <link rel="alternate" type="text/html" href="http://deepfocus.github.io/articles/welcome" />
+  <id>http://deepfocus.github.io/articles/welcome</id>
+  <published>2014-01-08T00:00:00-05:00</published>
+  <updated>2014-01-08T00:00:00-05:00</updated>
+  <author>
+    <name></name>
+    <uri>http://deepfocus.github.io</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;“Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”&lt;/p&gt;
+
+&lt;p&gt;He didn’t say any more, but we’ve always been unusually communicative in a reserved way, and I understood that he meant a great deal more than that. In consequence, I’m inclined to reserve all judgments, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores. The abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person, and so it came about that in college I was unjustly accused of being a politician, because I was privy to the secret griefs of wild, unknown men. Most of the confidences were unsought — frequently I have feigned sleep, preoccupation, or a hostile levity when I realized by some unmistakable sign that an intimate revelation was quivering on the horizon; for the intimate revelations of young men, or at least the terms in which they express them, are usually plagiaristic and marred by obvious suppressions. Reserving judgments is a matter of infinite hope. I am still a little afraid of missing something if I forget that, as my father snobbishly suggested, and I snobbishly repeat, a sense of the fundamental decencies is parcelled out unequally at birth.
+overlooked, so I had a view of the water, a partial view of my neighbor’s lawn, and the consoling proximity of millionaires — all for eighty dollars a month.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://deepfocus.github.io/articles/welcome&quot;&gt;Welcome to Tech @ Deep Focus&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://deepfocus.github.io&quot;&gt;Tech @ Deep Focus&lt;/a&gt; on January 08, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
