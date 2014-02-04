@@ -2,7 +2,7 @@ title:            Tech @ Deep Focus
 tagline:          A beautiful theme.
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-#url: http://deepfocus.github.io
+url: http://deepfocus.github.io
 
 # Owner/author information
 #owner:

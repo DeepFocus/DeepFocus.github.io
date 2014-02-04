@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech Breakfast #1 - A Taste of Scala
+title: "Tech Breakfast #1 - A Taste of Scala"
 category: articles
 tags: [scala]
 image:
