@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-02-04T12:18:16-05:00</updated>
+<updated>2014-02-04T16:25:06-05:00</updated>
 <id>/</id>
 <author>
   <name></name>
@@ -27,7 +27,7 @@
   </author>
   <content type="html">&lt;p&gt;This is a first post in our Tech Breakfast series. Every week, the DF Tech team gets together over breakfast and discusses latest trends, technologies, apps, programing languages, frameworks, and more. Each week, one member gets to present his or her own topic to the rest of the team. This is the first talk in the series, which introduces Scala. Scala has been getting increasingly popular as a language of choice for many industry leaders, so we wanted to make sure it’s on our radar. This is just a teaser, but more to follow. Enjoy!&lt;/p&gt;
 
-&lt;script async=&quot;true&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;6713f9506e6d0131e9942e101b81b9e4&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt; &lt;/script&gt;
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;6713f9506e6d0131e9942e101b81b9e4&quot; data-ratio=&quot;1.29456384323641&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;/articles/taste-of-scala&quot;&gt;Tech Breakfast&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Tech @ Deep Focus&lt;/a&gt; on January 22, 2014.&lt;/p&gt;</content>
