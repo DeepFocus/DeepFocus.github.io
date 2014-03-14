@@ -851,5 +851,9 @@ small {
 }
 
 
+.logo {
+    @include translateY(-10px);
+}
+
 
 

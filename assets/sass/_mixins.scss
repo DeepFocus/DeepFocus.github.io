@@ -167,6 +167,16 @@
                zoom: 1;
 }
 
+/* ROTATE*/
+@mixin translateY($PosY: 0) {
+     -moz-transform: translateY($PosY);
+       -o-transform: translateY($PosY);
+  -webkit-transform: translateY($PosY);
+      -ms-transform: translateY($PosY);
+          transform: translateY($PosY);
+}
+
+
 /* TEXT SHADOW */
 @mixin tshd($x: 2px, $y: 2px, $blur: 5px, $color: rgba(0,0,0,.4)) {
     text-shadow: $x $y $blur $color;
