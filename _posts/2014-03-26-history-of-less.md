@@ -6,7 +6,7 @@ tags:
   - Less
   - Frontend
 image:
-  feature: flexbox-less.jpg
+  feature: flexbox-less.png
 ---
 
 Today, we present a run-down of the history of Less, Sass, and source maps in preprocessors. We also get a quick overview of some of the basic features found in Less, such as mixins and variables.
