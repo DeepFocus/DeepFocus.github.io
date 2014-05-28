@@ -5,18 +5,18 @@ description:      Describe your website.
 url: http://deepfocus.github.io
 
 # Owner/author information
-#owner:
-#  name:           Cole Townsend
+owner:
+ name:           Deep Focus
 #  avatar:         avatar.png
 #  bio:            "Aesthete & Athlete"
 #  email:          cole@coletownsend.com
-#  twitter:        twnsndco        
-#  github:         coletownsend       
-#  instagram:      ctrunsthis     
+ twitter:        deepfocus
+ github:         deepfocus
+#  instagram:      ctrunsthis
 #  dribbble:       coletownsend
 #  disqus:         balzac
   # Plug in your disqus shortname!
-  
+
 
 # Links to include in top navigation
 # For external links add external: true
@@ -45,7 +45,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
