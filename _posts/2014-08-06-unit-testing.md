@@ -10,6 +10,7 @@ image:
 ##Unit Testing and Dependency Injection Techniques
 
 We’ll use Asp.Net to make it more real Also:
+
 - StructureMap for IoC/DI.
 - NSubstitute for faking dependencies.
 - NLog as a 3rd party dependency example.
