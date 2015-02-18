@@ -6,7 +6,7 @@ tags:
   - Refactoring
   - Web
 image:
-  feature: refactor.png
+  feature: refactor.jpg
 ---
 
 When inheriting projects, we aren't always going to receive a code-base that is susceptible to change.  The code-base does everything the client wants, pleases the user and functions, but is unmaintainable, hard to read, and unpleasant to work on.  Something has to be done, but what? Refactor.
